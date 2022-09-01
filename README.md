@@ -25,4 +25,5 @@ If you have completed the activity and want to further your knowledge, work thro
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
-
+## Submission
+[Flexbox Website](https://bslockhart.github.io/Class-Activity-02-Flexbox-Layout/)
