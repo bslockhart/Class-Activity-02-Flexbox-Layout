@@ -12,7 +12,7 @@ Product cards run off the page in a single row.
 ## Assets
 The following image demonstrates the web application's appearance:
 
-![In an online store's webpage, products are spread over two stacked rows of three cards each.](./images/01-product-grid.png)
+![In an online store's webpage, products are spread over two stacked rows of three cards each.](./assets/images/01-product-grid.png)
 
 
 ## 💡 Hints
